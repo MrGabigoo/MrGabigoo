@@ -3,7 +3,7 @@
 - 🌐 [My website](https://seizeheures.fr)
 - 🦊 [My GitLab Profile](https://gitlab.com/seizeheures) (I have more projects over there than on GitHub)
 - 🗣️ English, French, Esperanto
-- 🧔‍♂️ he/him
+- 😄 he/him
 
 <!--
 **MrGabigoo/MrGabigoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
