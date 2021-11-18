@@ -1,4 +1,4 @@
-### Hello 👋
+### About Me
 
 - 🌐 [My website](https://seizeheures.fr)
 - 🦊 [My GitLab Profile](https://gitlab.com/seizeheures) (I have more projects over there than on GitHub)
